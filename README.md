@@ -100,7 +100,7 @@ plt.show()
 ![a](op2.png)
 
 ### Graph:
-![op](op3.png)
+![op](op4.png)
 ## Result:
    Thus a Bayesian Network is generated using Python
 
